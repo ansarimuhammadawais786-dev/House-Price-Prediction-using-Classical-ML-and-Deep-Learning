@@ -119,7 +119,13 @@ We built a Feedforward Neural Network (FNN) using PyTorch.
 ## 5. Results and Analysis
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](output/1.png)
+
+![App Screenshot](output/2.png)
+
+
+![App Screenshot](output/3.png)
+
 
 ### 5.1 Model Performance Comparison
 

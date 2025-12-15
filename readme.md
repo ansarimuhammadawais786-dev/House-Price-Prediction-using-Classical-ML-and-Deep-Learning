@@ -1,4 +1,4 @@
-# House Price Prediction using Classical ML and Deep Learning
+<img width="352" height="52" alt="image" src="https://github.com/user-attachments/assets/19313354-29b8-48c5-983a-a29c815d3dc2" /># House Price Prediction using Classical ML and Deep Learning
 
 ## 1. Abstract
 
@@ -122,9 +122,9 @@ We built a Feedforward Neural Network (FNN) using PyTorch.
 ![App Screenshot](output/1.png)
 
 ![App Screenshot](output/2.png)
-
-
+![App Screenshot](output/2.5.png)
 ![App Screenshot](output/3.png)
+![App Screenshot](output/4.png)
 
 
 ### 5.1 Model Performance Comparison

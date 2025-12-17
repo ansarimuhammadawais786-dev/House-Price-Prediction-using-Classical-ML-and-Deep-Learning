@@ -72,7 +72,7 @@ Before training the models, several preprocessing steps were performed:
 
 ### 4.1 Classical Machine Learning Models
 
-We implemented the following models using scikit-learn:
+I implemented the following models using scikit-learn:
 
 #### Ridge Regression
 

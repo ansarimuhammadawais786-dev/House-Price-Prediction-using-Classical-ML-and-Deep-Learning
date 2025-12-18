@@ -149,7 +149,7 @@ We built a Feedforward Neural Network (FNN) using PyTorch.
 
 ### 5.3 Business Impact
 
-- The Random Forest model explains around 88% of price variation  
+- The Deep learning model explains around 91.7% of price variation 
 - It can be used for automatic house valuation systems  
 - Feature importance showed that grade, living area, and location are the most important factors  
 
@@ -159,7 +159,7 @@ We built a Feedforward Neural Network (FNN) using PyTorch.
 
 ### 6.1 Conclusion
 
-This project shows that  classical machine learning models, especially Random Forest, performs not well as compared to  Deep Learning on structured housing data.  Neural Networks are powerful, tree-based models are often more effective for tabular datasets with limited size.
+This project shows that  classical machine learning models,  performs not well as compared to  Deep Learning on structured housing data.  Neural Networks are powerful, tree-based models are often more effective for tabular datasets with limited size.
 
 ### 6.2 Future Improvements
 

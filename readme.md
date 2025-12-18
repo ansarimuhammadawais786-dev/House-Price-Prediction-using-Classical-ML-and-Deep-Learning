@@ -159,7 +159,7 @@ We built a Feedforward Neural Network (FNN) using PyTorch.
 
 ### 6.1 Conclusion
 
-This project shows that classical machine learning models, especially Random Forest, perform better than Deep Learning on structured housing data. While Neural Networks are powerful, tree-based models are often more effective for tabular datasets with limited size.
+This project shows that  classical machine learning models, especially Random Forest, performs not well as compared to  Deep Learning on structured housing data.  Neural Networks are powerful, tree-based models are often more effective for tabular datasets with limited size.
 
 ### 6.2 Future Improvements
 
